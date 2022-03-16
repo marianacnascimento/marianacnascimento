@@ -7,7 +7,7 @@
 </p>
 
  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=marianacnascimento.marianacnascimento)
-[![Github](https://img.shields.io/github/followers/cmnana?label=Follow&style=social)](https://github.com/cmnana)
+[![Github](https://img.shields.io/github/followers/marianacnascimento?label=Follow&style=social)](https://github.com/marianacnascimento)
 
 <div size='20px'> Olá! Meu nome é Mariana Nascimento. Esse é meu perfil do GitHub :smile: 
 </div>
@@ -38,11 +38,11 @@
 <br>
   <br>
   
-[![Mariana's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cmnana&theme=tokyonight)](https://git.io/praveenscience)
+[![Mariana's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marianacnascimento&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Mariana's github stats](https://github-readme-stats.vercel.app/api?username=cmnana&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cmnana&theme=tokyonight) |
+| ![Mariana's github stats](https://github-readme-stats.vercel.app/api?username=marianacnascimento&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marianacnascimento&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmnana&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=cmnana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacnascimento&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=marianacnascimento&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
@@ -51,4 +51,4 @@
 
 
 -----
-Credits: [Mariana Nascimento](https://github.com/cmnana)
+Credits: [Mariana Nascimento](https://github.com/marianacnascimento)
