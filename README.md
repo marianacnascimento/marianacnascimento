@@ -5,7 +5,7 @@
 <h1> Olá < Desenvolvedores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-   
+
 [![Github](https://img.shields.io/github/followers/marianacnascimento?label=Follow&style=social)](https://github.com/marianacnascimento)
     
 <div size='20px'> Olá! Meu nome é Mariana Nascimento. Esse é meu perfil do GitHub :smile: 
@@ -31,7 +31,7 @@
 
 <h2> Conecte-se comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/mariana-cnascimento'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
-<a href = 'https://www.github.com/cmnana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/marianacnascimento'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
