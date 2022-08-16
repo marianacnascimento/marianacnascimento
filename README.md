@@ -33,9 +33,7 @@
 <a href = 'https://www.linkedin.com/in/mariana-cnascimento'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 <a href = 'https://www.github.com/marianacnascimento'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
-<br>
-<br>
-  <br>
+<hr size:"1">
   
 [![Mariana's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marianacnascimento&theme=tokyonight)](https://git.io/praveenscience)
 
