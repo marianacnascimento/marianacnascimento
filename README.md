@@ -19,7 +19,7 @@
   
 - 🌱 Estou aprendendo sobre Git, GitHub e Linguagens de Programação
   
-- 💬 Me pergunte sobre HTML, JavaScript, e CSS.
+- 💬 Me pergunte sobre HTML, JavaScript, CSS.
 
 - ⚡ Curiosidade: Amo gatos, e sou musicista desde os 10 anos de idade.
 
@@ -46,8 +46,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-<br>
-
+<hr size:"1">
 
 -----
 Credits: [Mariana Nascimento](https://github.com/marianacnascimento)
